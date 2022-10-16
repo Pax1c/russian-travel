@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(../../../fonts/Inter-Web/Inter-ExtraBold.woff);
+  font-weight: bold;
+}
+
+.lead__title {
+  font-family: 'Inter';
+  font-style: bold;
+  font-weight: 900;
+  font-size: 6rem;
+  line-height: 6.25rem;
+  color: #fff;
+  max-width: 720px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    font-size: 2.5rem;
+    line-height: 2.75rem;
+    max-width: 288px;
+  }
+}

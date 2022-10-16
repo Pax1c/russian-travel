@@ -1,0 +1,12 @@
+.places__description {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 48px;
+}
+
+@media screen and (max-width: 768px) {
+    .places__description {
+        margin-top: 32px;
+        flex-direction: column;
+    }
+}
