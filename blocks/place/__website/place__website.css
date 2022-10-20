@@ -1,23 +1,23 @@
-.places__website {
+.place__website {
     display: flex;
     flex-direction: column;
     padding-left: 40px;
 }
 
 @media screen and (max-width: 1280px) {
-    .places__website {
+    .place__website {
         padding-left: 32px;
     }
 }
 
 @media screen and (max-width: 1024px) {
-    .places__website {
+    .place__website {
         padding-left: 28px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .places__website {
+    .place__website {
         padding-left: 0;
         padding-bottom: 32px;
     }
