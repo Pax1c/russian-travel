@@ -1,9 +1,14 @@
 .cover__link {
     height: 100%;
     width: 100%;
+    min-height: 740px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-decoration: none;
+    background-image: url(../../../images/cover__background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }

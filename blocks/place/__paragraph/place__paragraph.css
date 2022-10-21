@@ -16,5 +16,6 @@
     .place__paragraph {
         margin-bottom: 25px;
         font-size: 1rem;
+        line-height: 1.625rem;
     }
 }
