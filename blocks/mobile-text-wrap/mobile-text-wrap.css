@@ -1,9 +1,0 @@
-.mobile-text-wrap {
-    display: none;
-}
-
-@media (max-width: 767px) {
-    .mobile-text-wrap {
-        display: initial;
-    }
-}
