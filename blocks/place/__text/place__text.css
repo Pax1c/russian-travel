@@ -9,12 +9,14 @@
 @media screen and (max-width: 1279px) {
     .place__text {
         margin-left: 32px;
+        max-width: 456px;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .place__text {
         margin-left: 28px;
+        max-width: 352px;
     }
 }
 
@@ -23,5 +25,6 @@
         margin-left: 16px;
         margin-right: 16px;
         margin-top: 32px;
+        max-width: 288px;
     }
 }
